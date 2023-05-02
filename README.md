@@ -151,7 +151,7 @@ So Microsoft could set itself apart with an *Animated Sci-Fi Adventure directed 
 I'd watch that.
 
 ## Limitations, Recommendations, Next Steps
-It's important to note that, again, the movie business was gutted during the two Covid-stricken years. In fact, it's still hasn't fully rebounded. So data about current movie trends might be out of date, and releasing a movie very soon might not even be the best idea (depending on how much longer the recovery will take.)
+It's important to note that, again, the movie business was gutted during the two Covid-stricken years. In fact, it still hasn't fully rebounded. So data about current movie trends might be out of date, and releasing a movie very soon might not even be the best idea (depending on how much longer the recovery will take.)
 
 
 Probably the most obvious places we didn't look in the data would be at both actors and writers. However, slightly less intuitively important might be to see if the release date (or even the release day of the week) matters. It may be worth looking at each of those, although it is probably hard to determine what actors to use without knowing what the roles and tone of the final product will be.
